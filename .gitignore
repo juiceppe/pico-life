@@ -1,0 +1,7 @@
+.pio
+.idea
+include/
+lib/
+test/
+secrets.cpp
+*.DS_STORE
